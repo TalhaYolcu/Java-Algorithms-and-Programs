@@ -1,1 +1,1 @@
-# Simple-Cpp-Algorithms
+# Simple-Java-Algorithms
